@@ -9,5 +9,6 @@ namespace VerhuringCandyWebsite.Core.Entities
 {
     public class ApplicationUser : IdentityUser
     {
+        public IEnumerable<ReservationOrder> Reservations { get; set; }
     }
 }

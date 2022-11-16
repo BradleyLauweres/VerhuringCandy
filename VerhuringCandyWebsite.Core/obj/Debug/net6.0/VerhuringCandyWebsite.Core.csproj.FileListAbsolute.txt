@@ -1,0 +1,12 @@
+D:\VerhuringCandy\VerhuringCandyWebsite.Core\bin\Debug\net6.0\VerhuringCandyWebsite.Core.deps.json
+D:\VerhuringCandy\VerhuringCandyWebsite.Core\bin\Debug\net6.0\VerhuringCandyWebsite.Core.dll
+D:\VerhuringCandy\VerhuringCandyWebsite.Core\bin\Debug\net6.0\VerhuringCandyWebsite.Core.pdb
+D:\VerhuringCandy\VerhuringCandyWebsite.Core\obj\Debug\net6.0\VerhuringCandyWebsite.Core.csproj.AssemblyReference.cache
+D:\VerhuringCandy\VerhuringCandyWebsite.Core\obj\Debug\net6.0\VerhuringCandyWebsite.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\VerhuringCandy\VerhuringCandyWebsite.Core\obj\Debug\net6.0\VerhuringCandyWebsite.Core.AssemblyInfoInputs.cache
+D:\VerhuringCandy\VerhuringCandyWebsite.Core\obj\Debug\net6.0\VerhuringCandyWebsite.Core.AssemblyInfo.cs
+D:\VerhuringCandy\VerhuringCandyWebsite.Core\obj\Debug\net6.0\VerhuringCandyWebsite.Core.csproj.CoreCompileInputs.cache
+D:\VerhuringCandy\VerhuringCandyWebsite.Core\obj\Debug\net6.0\VerhuringCandyWebsite.Core.dll
+D:\VerhuringCandy\VerhuringCandyWebsite.Core\obj\Debug\net6.0\refint\VerhuringCandyWebsite.Core.dll
+D:\VerhuringCandy\VerhuringCandyWebsite.Core\obj\Debug\net6.0\VerhuringCandyWebsite.Core.pdb
+D:\VerhuringCandy\VerhuringCandyWebsite.Core\obj\Debug\net6.0\ref\VerhuringCandyWebsite.Core.dll

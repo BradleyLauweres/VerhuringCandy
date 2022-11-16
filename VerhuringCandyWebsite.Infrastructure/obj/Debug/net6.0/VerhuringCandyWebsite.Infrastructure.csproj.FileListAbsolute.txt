@@ -1,0 +1,15 @@
+D:\VerhuringCandy\VerhuringCandyWebsite.Infrastructure\obj\Debug\net6.0\VerhuringCandyWebsite.Infrastructure.csproj.AssemblyReference.cache
+D:\VerhuringCandy\VerhuringCandyWebsite.Infrastructure\obj\Debug\net6.0\VerhuringCandyWebsite.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\VerhuringCandy\VerhuringCandyWebsite.Infrastructure\obj\Debug\net6.0\VerhuringCandyWebsite.Infrastructure.AssemblyInfoInputs.cache
+D:\VerhuringCandy\VerhuringCandyWebsite.Infrastructure\obj\Debug\net6.0\VerhuringCandyWebsite.Infrastructure.AssemblyInfo.cs
+D:\VerhuringCandy\VerhuringCandyWebsite.Infrastructure\obj\Debug\net6.0\VerhuringCandyWebsite.Infrastructure.csproj.CoreCompileInputs.cache
+D:\VerhuringCandy\VerhuringCandyWebsite.Infrastructure\bin\Debug\net6.0\VerhuringCandyWebsite.Infrastructure.deps.json
+D:\VerhuringCandy\VerhuringCandyWebsite.Infrastructure\bin\Debug\net6.0\VerhuringCandyWebsite.Infrastructure.dll
+D:\VerhuringCandy\VerhuringCandyWebsite.Infrastructure\bin\Debug\net6.0\VerhuringCandyWebsite.Infrastructure.pdb
+D:\VerhuringCandy\VerhuringCandyWebsite.Infrastructure\bin\Debug\net6.0\VerhuringCandyWebsite.Core.dll
+D:\VerhuringCandy\VerhuringCandyWebsite.Infrastructure\bin\Debug\net6.0\VerhuringCandyWebsite.Core.pdb
+D:\VerhuringCandy\VerhuringCandyWebsite.Infrastructure\obj\Debug\net6.0\VerhuringCandyWebsite.Infrastructure.csproj.CopyComplete
+D:\VerhuringCandy\VerhuringCandyWebsite.Infrastructure\obj\Debug\net6.0\VerhuringCandyWebsite.Infrastructure.dll
+D:\VerhuringCandy\VerhuringCandyWebsite.Infrastructure\obj\Debug\net6.0\refint\VerhuringCandyWebsite.Infrastructure.dll
+D:\VerhuringCandy\VerhuringCandyWebsite.Infrastructure\obj\Debug\net6.0\VerhuringCandyWebsite.Infrastructure.pdb
+D:\VerhuringCandy\VerhuringCandyWebsite.Infrastructure\obj\Debug\net6.0\ref\VerhuringCandyWebsite.Infrastructure.dll
