@@ -1,3 +1,7 @@
+using Microsoft.EntityFrameworkCore;
+using VerhuringCandyWebsite.Infrastructure.Data;
+using Microsoft.AspNetCore.Identity;
+
 namespace VerhuringCandyWebsite
 {
     public class Program
@@ -5,6 +9,12 @@ namespace VerhuringCandyWebsite
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("CandyConection")));
+
+                        builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+                .AddEntityFrameworkStores<ApplicationDbContext>();
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
@@ -23,6 +33,7 @@ namespace VerhuringCandyWebsite
             app.UseStaticFiles();
 
             app.UseRouting();
+                        app.UseAuthentication();;
 
             app.UseAuthorization();
 
