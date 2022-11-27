@@ -10298,23 +10298,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bradley Lauweres\\.nuget\\packages\\": {},
+    "C:\\Users\\bradley\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\VerhuringCandyWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\VerhuringCandyWebsite.csproj",
       "projectName": "VerhuringCandyWebsite",
-      "projectPath": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\VerhuringCandyWebsite.csproj",
-      "packagesPath": "C:\\Users\\Bradley Lauweres\\.nuget\\packages\\",
-      "outputPath": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\obj\\",
+      "projectPath": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\VerhuringCandyWebsite.csproj",
+      "packagesPath": "C:\\Users\\bradley\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Bradley Lauweres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bradley\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -10330,11 +10330,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\VerhuringCandy\\VerhuringCandyWebsite.Core\\VerhuringCandyWebsite.Core.csproj": {
-              "projectPath": "D:\\VerhuringCandy\\VerhuringCandyWebsite.Core\\VerhuringCandyWebsite.Core.csproj"
+            "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite.Core\\VerhuringCandyWebsite.Core.csproj": {
+              "projectPath": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite.Core\\VerhuringCandyWebsite.Core.csproj"
             },
-            "D:\\VerhuringCandy\\VerhuringCandyWebsite.Infrastructure\\VerhuringCandyWebsite.Infrastructure.csproj": {
-              "projectPath": "D:\\VerhuringCandy\\VerhuringCandyWebsite.Infrastructure\\VerhuringCandyWebsite.Infrastructure.csproj"
+            "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite.Infrastructure\\VerhuringCandyWebsite.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite.Infrastructure\\VerhuringCandyWebsite.Infrastructure.csproj"
             }
           }
         }
@@ -10391,7 +10391,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

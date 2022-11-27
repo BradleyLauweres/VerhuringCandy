@@ -14,7 +14,7 @@ namespace VerhuringCandyWebsite.Infrastructure.Data
     {
 
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
-        public DbSet<ReservationOrder> ReservationOrder { get; set; }
+        public DbSet<ReservationOrder> ReservationOrders { get; set; }
 
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)

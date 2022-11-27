@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using VerhuringCandyWebsite.Infrastructure.Data;
 using Microsoft.AspNetCore.Identity;
+using VerhuringCandyWebsite.Core.Interfaces;
+using VerhuringCandyWebsite.Core.Services;
 
 namespace VerhuringCandyWebsite
 {
@@ -18,6 +20,7 @@ namespace VerhuringCandyWebsite
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddScoped<IReservationService, ReservationService>();
 
             var app = builder.Build();
 
