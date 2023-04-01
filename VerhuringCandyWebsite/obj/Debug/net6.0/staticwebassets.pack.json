@@ -1,227 +1,227 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\VerhuringCandyWebsite.bundle.scp.css",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\VerhuringCandyWebsite.bundle.scp.css",
       "PackagePath": "staticwebassets\\VerhuringCandyWebsite.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\Gocars.jpg",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\Gocars.jpg",
       "PackagePath": "staticwebassets\\Images\\Gocars.jpg"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\Maan_1.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\Maan_1.png",
       "PackagePath": "staticwebassets\\Images\\Maan_1.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\Maan_2.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\Maan_2.png",
       "PackagePath": "staticwebassets\\Images\\Maan_2.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\avatar.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\avatar.png",
       "PackagePath": "staticwebassets\\Images\\avatar.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\cart.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\cart.png",
       "PackagePath": "staticwebassets\\Images\\cart.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\fb.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\fb.png",
       "PackagePath": "staticwebassets\\Images\\fb.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\fietsen.jpg",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\fietsen.jpg",
       "PackagePath": "staticwebassets\\Images\\fietsen.jpg"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\hero-bg.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\hero-bg.png",
       "PackagePath": "staticwebassets\\Images\\hero-bg.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\hoverboard.jpg",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\hoverboard.jpg",
       "PackagePath": "staticwebassets\\Images\\hoverboard.jpg"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\insta.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\insta.png",
       "PackagePath": "staticwebassets\\Images\\insta.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\location.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\location.png",
       "PackagePath": "staticwebassets\\Images\\location.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\logo.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\logo.png",
       "PackagePath": "staticwebassets\\Images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\mail.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\mail.png",
       "PackagePath": "staticwebassets\\Images\\mail.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\menu.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\menu.png",
       "PackagePath": "staticwebassets\\Images\\menu.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\next-black.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\next-black.png",
       "PackagePath": "staticwebassets\\Images\\next-black.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\next.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\next.png",
       "PackagePath": "staticwebassets\\Images\\next.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\ostend-express.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\ostend-express.png",
       "PackagePath": "staticwebassets\\Images\\ostend-express.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\phone.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\phone.png",
       "PackagePath": "staticwebassets\\Images\\phone.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\prev-black.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\prev-black.png",
       "PackagePath": "staticwebassets\\Images\\prev-black.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\prev.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\prev.png",
       "PackagePath": "staticwebassets\\Images\\prev.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\rolstoelen.jpg",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\rolstoelen.jpg",
       "PackagePath": "staticwebassets\\Images\\rolstoelen.jpg"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\search-icon.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\search-icon.png",
       "PackagePath": "staticwebassets\\Images\\search-icon.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\steps.jpg",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\steps.jpg",
       "PackagePath": "staticwebassets\\Images\\steps.jpg"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\twitter.png",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\Images\\twitter.png",
       "PackagePath": "staticwebassets\\Images\\twitter.png"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\css\\Responsive.css",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\css\\Responsive.css",
       "PackagePath": "staticwebassets\\css\\Responsive.css"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\css\\bootstrap.css",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\css\\site.css",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\favicon.ico",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\js\\BootStrap.js",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\js\\BootStrap.js",
       "PackagePath": "staticwebassets\\js\\BootStrap.js"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\js\\JQuery.js",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\js\\JQuery.js",
       "PackagePath": "staticwebassets\\js\\JQuery.js"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\js\\site.js",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\base.css",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\base.css",
       "PackagePath": "staticwebassets\\lib\\tailwindcss\\base.css"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\base.min.css",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\base.min.css",
       "PackagePath": "staticwebassets\\lib\\tailwindcss\\base.min.css"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\components.css",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\components.css",
       "PackagePath": "staticwebassets\\lib\\tailwindcss\\components.css"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\components.min.css",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\components.min.css",
       "PackagePath": "staticwebassets\\lib\\tailwindcss\\components.min.css"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\tailwind-dark.css",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\tailwind-dark.css",
       "PackagePath": "staticwebassets\\lib\\tailwindcss\\tailwind-dark.css"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\tailwind-dark.min.css",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\tailwind-dark.min.css",
       "PackagePath": "staticwebassets\\lib\\tailwindcss\\tailwind-dark.min.css"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\tailwind-experimental.css",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\tailwind-experimental.css",
       "PackagePath": "staticwebassets\\lib\\tailwindcss\\tailwind-experimental.css"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\tailwind-experimental.min.css",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\tailwind-experimental.min.css",
       "PackagePath": "staticwebassets\\lib\\tailwindcss\\tailwind-experimental.min.css"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\tailwind.css",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\tailwind.css",
       "PackagePath": "staticwebassets\\lib\\tailwindcss\\tailwind.css"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\tailwind.min.css",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\tailwind.min.css",
       "PackagePath": "staticwebassets\\lib\\tailwindcss\\tailwind.min.css"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\utilities.css",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\utilities.css",
       "PackagePath": "staticwebassets\\lib\\tailwindcss\\utilities.css"
     },
     {
-      "Id": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\utilities.min.css",
+      "Id": "D:\\VerhuringCandy\\VerhuringCandyWebsite\\wwwroot\\lib\\tailwindcss\\utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\tailwindcss\\utilities.min.css"
     },
     {

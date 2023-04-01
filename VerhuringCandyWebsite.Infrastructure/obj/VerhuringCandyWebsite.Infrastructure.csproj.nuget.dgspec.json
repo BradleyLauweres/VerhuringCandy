@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite.Infrastructure\\VerhuringCandyWebsite.Infrastructure.csproj": {}
+    "D:\\VerhuringCandy\\VerhuringCandyWebsite.Infrastructure\\VerhuringCandyWebsite.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite.Core\\VerhuringCandyWebsite.Core.csproj": {
+    "D:\\VerhuringCandy\\VerhuringCandyWebsite.Core\\VerhuringCandyWebsite.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite.Core\\VerhuringCandyWebsite.Core.csproj",
+        "projectUniqueName": "D:\\VerhuringCandy\\VerhuringCandyWebsite.Core\\VerhuringCandyWebsite.Core.csproj",
         "projectName": "VerhuringCandyWebsite.Core",
-        "projectPath": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite.Core\\VerhuringCandyWebsite.Core.csproj",
-        "packagesPath": "C:\\Users\\bradley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite.Core\\obj\\",
+        "projectPath": "D:\\VerhuringCandy\\VerhuringCandyWebsite.Core\\VerhuringCandyWebsite.Core.csproj",
+        "packagesPath": "C:\\Users\\Bradley\\.nuget\\packages\\",
+        "outputPath": "D:\\VerhuringCandy\\VerhuringCandyWebsite.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\bradley\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bradley\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -82,26 +84,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite.Infrastructure\\VerhuringCandyWebsite.Infrastructure.csproj": {
+    "D:\\VerhuringCandy\\VerhuringCandyWebsite.Infrastructure\\VerhuringCandyWebsite.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite.Infrastructure\\VerhuringCandyWebsite.Infrastructure.csproj",
+        "projectUniqueName": "D:\\VerhuringCandy\\VerhuringCandyWebsite.Infrastructure\\VerhuringCandyWebsite.Infrastructure.csproj",
         "projectName": "VerhuringCandyWebsite.Infrastructure",
-        "projectPath": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite.Infrastructure\\VerhuringCandyWebsite.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\bradley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite.Infrastructure\\obj\\",
+        "projectPath": "D:\\VerhuringCandy\\VerhuringCandyWebsite.Infrastructure\\VerhuringCandyWebsite.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Bradley\\.nuget\\packages\\",
+        "outputPath": "D:\\VerhuringCandy\\VerhuringCandyWebsite.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\bradley\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bradley\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -115,8 +119,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite.Core\\VerhuringCandyWebsite.Core.csproj": {
-                "projectPath": "C:\\Users\\bradley\\Desktop\\VerhuringCandy\\VerhuringCandyWebsite.Core\\VerhuringCandyWebsite.Core.csproj"
+              "D:\\VerhuringCandy\\VerhuringCandyWebsite.Core\\VerhuringCandyWebsite.Core.csproj": {
+                "projectPath": "D:\\VerhuringCandy\\VerhuringCandyWebsite.Core\\VerhuringCandyWebsite.Core.csproj"
               }
             }
           }
@@ -146,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
