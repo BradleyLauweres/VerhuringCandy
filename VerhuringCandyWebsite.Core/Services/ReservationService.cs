@@ -12,7 +12,6 @@ namespace VerhuringCandyWebsite.Core.Services
 {
     public class ReservationService : IReservationService
     {
-
         public void CreateReservationOrder(int amountOfPersons , DateTime arival, string email,string name , DateTime rentTime)
         {
             var reservation = new ReservationOrder
@@ -24,10 +23,7 @@ namespace VerhuringCandyWebsite.Core.Services
                 ReservationUserMail = email,
                 ReservationUserName = name,
                 RentTime = rentTime,
-
             };
-
-
         }
 
         public List<ReservationOrder> GetReservations()

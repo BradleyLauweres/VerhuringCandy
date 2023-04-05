@@ -19,7 +19,7 @@ namespace VerhuringCandyWebsite
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
             // Add services to the container.
-            builder.Services.AddControllersWithViews();
+            builder.Services.AddControllersWithViews(); 
             builder.Services.AddScoped<IReservationService, ReservationService>();
 
             var app = builder.Build();
